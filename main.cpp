@@ -8,8 +8,7 @@
 #include <iomanip>
 using namespace std;
 
-int main()
-{
+int main() {
     setlocale(LC_ALL, "Russian");
 
     double t, h, l, R1, R2;
