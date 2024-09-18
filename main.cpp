@@ -39,7 +39,4 @@ int main() {
 
     cout << "Радиус кривизны вершины траектории: ";
     cout << fixed << setprecision(7) << R2 << endl;
-
-
-
 }
